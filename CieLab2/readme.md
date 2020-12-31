@@ -4,5 +4,7 @@ constant speed of at 42Kbps. Write a program depicting the above scenario consid
 the following situation:
 
 First packet is of the size 60Kb
+
 Second one 300Kb
+
 Third one 600Kb. 
